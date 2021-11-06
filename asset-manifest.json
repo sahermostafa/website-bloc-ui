@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/website-bloc-ui/static/css/main.affed70d.chunk.css",
+    "main.js": "/website-bloc-ui/static/js/main.e1aa4296.chunk.js",
+    "main.js.map": "/website-bloc-ui/static/js/main.e1aa4296.chunk.js.map",
+    "runtime-main.js": "/website-bloc-ui/static/js/runtime-main.31cde31e.js",
+    "runtime-main.js.map": "/website-bloc-ui/static/js/runtime-main.31cde31e.js.map",
+    "static/js/2.fa6e5ad4.chunk.js": "/website-bloc-ui/static/js/2.fa6e5ad4.chunk.js",
+    "static/js/2.fa6e5ad4.chunk.js.map": "/website-bloc-ui/static/js/2.fa6e5ad4.chunk.js.map",
+    "index.html": "/website-bloc-ui/index.html",
+    "static/css/main.affed70d.chunk.css.map": "/website-bloc-ui/static/css/main.affed70d.chunk.css.map",
+    "static/js/2.fa6e5ad4.chunk.js.LICENSE.txt": "/website-bloc-ui/static/js/2.fa6e5ad4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31cde31e.js",
+    "static/js/2.fa6e5ad4.chunk.js",
+    "static/css/main.affed70d.chunk.css",
+    "static/js/main.e1aa4296.chunk.js"
+  ]
+}
